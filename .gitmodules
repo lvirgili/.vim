@@ -1,0 +1,6 @@
+[submodule "easy-motion"]
+	path = easy-motion
+	url = https://github.com/Lokaltog/vim-easymotion
+[submodule "bundle/vim-easymotion"]
+	path = bundle/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion
