@@ -16,7 +16,6 @@ inoremap [[     [
 inoremap []     []
 
 set number
-set background=dark
 set wrap
 
 filetype plugin indent on
