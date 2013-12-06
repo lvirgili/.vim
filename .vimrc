@@ -15,6 +15,9 @@ inoremap [<CR>  [<CR>]<Esc>O
 inoremap [[     [
 inoremap []     []
 
+:imap jk <Esc>
+:imap kj <Esc>
+
 set number
 set wrap
 
